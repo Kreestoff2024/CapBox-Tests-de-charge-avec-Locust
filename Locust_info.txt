@@ -1,0 +1,3 @@
+Locust documentation -> docs.locust.io
+Lancer Locust -> Locust + entrée
+Serveur -> localhost8089
